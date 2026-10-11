@@ -1,0 +1,23 @@
+img {
+  width: 200px;
+}
+
+body {
+  text-align: left;
+  font-family: 'calibri', serif;
+  background: rgb(211, 106, 105);
+  color: rgb(213, 229, 229);
+}
+
+header {
+	text-align: right;
+	background: rgb(199, 88, 86);
+  font-family: 'Times', serif;
+  color: rgb(10, 13, 13);
+}
+
+footer {
+  text-align: center;
+
+}
+
